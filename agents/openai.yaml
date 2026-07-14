@@ -1,0 +1,4 @@
+interface:
+  display_name: "RabbitHolify"
+  short_description: "Run iterative, source-backed research loops"
+  default_prompt: "Use $rabbitholify to investigate this topic interactively and keep a source ledger."
