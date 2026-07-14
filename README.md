@@ -1,6 +1,6 @@
 # RabbitHolify
 
-RabbitHolify turns any topic, URL, repository, person, paper, podcast, company, or concept into an interactive, source-backed research chain.
+RabbitHolify, formerly Deep Research Loop, turns any topic, URL, repository, person, paper, podcast, company, or concept into an interactive, source-backed research chain.
 
 Each loop preserves findings, citations, contradictions, dead ends, and open branches. Continue with a single number, branch into a promising thread, synthesize across loops, export the chain, or stop with a final research report.
 
@@ -9,7 +9,7 @@ Each loop preserves findings, citations, contradictions, dead ends, and open bra
 Copy this repository to your Codex skills directory:
 
 ```bash
-git clone https://github.com/Alt3r3dP3rc3ption/RabbitHolify.git ~/.codex/skills/rabbitholify
+git clone --branch v1.0.0 --depth 1 https://github.com/Alt3r3dP3rc3ption/RabbitHolify.git ~/.codex/skills/rabbitholify
 ```
 
 Restart Codex, then invoke the skill:
