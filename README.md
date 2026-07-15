@@ -4,6 +4,13 @@ RabbitHolify, formerly Deep Research Loop, turns any topic, URL, repository, per
 
 Each loop preserves findings, citations, verbatim excerpts, precise locators, contradictions, dead ends, and open branches. Continue with a single number, branch into a promising thread, synthesize across loops, export the chain, or stop with a final research report.
 
+## Included skills
+
+| Skill | Purpose |
+|---|---|
+| [`rabbitholify`](./SKILL.md) | Run the research loop directly. |
+| [`load-rabbitholify`](./skills/load-rabbitholify/SKILL.md) | Activate the root skill from this repository. |
+
 ## Install
 
 Copy this repository to your Codex skills directory:
