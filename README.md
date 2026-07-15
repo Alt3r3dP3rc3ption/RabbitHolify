@@ -9,7 +9,7 @@ Each loop preserves findings, citations, verbatim excerpts, precise locators, co
 Copy this repository to your Codex skills directory:
 
 ```bash
-git clone --branch v1.1.0 --depth 1 https://github.com/Alt3r3dP3rc3ption/RabbitHolify.git ~/.codex/skills/rabbitholify
+git clone --branch v1.1.1 --depth 1 https://github.com/Alt3r3dP3rc3ption/RabbitHolify.git ~/.codex/skills/rabbitholify
 ```
 
 Restart Codex, then invoke the skill:

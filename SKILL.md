@@ -1,6 +1,8 @@
 ---
 name: rabbitholify
-description: Run an interactive, stateful deep-research chain for any topic, URL, repository, person, paper, podcast, company, concept, or local document set. Use when the user wants iterative source-backed investigation, traceable verbatim excerpts from research or authorized files, contract/specification/drawing analysis, research branches, GitHub graph analysis, cross-loop synthesis, a research map, an export, or a clean final synthesis controlled by a numbered menu.
+description: When you want a stateful research chain with traceable evidence. Use for requests like "research this topic," "go deeper," "trace this quote," "analyze these contracts, specifications, or drawings," "map this GitHub repo," or "export the research." Handles web and authorized local sources with verbatim excerpts, direct citations, quote ledgers, branching loops, synthesis, maps, and a clean stop menu.
+metadata:
+  version: 1.1.1
 ---
 
 # RabbitHolify
