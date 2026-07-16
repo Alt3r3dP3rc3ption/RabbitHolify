@@ -1,6 +1,6 @@
 ---
 name: rabbitholify
-description: When you want a stateful research chain with traceable evidence. Use for requests like "research this topic," "go deeper," "trace this quote," "analyze these contracts, specifications, or drawings," "map this GitHub repo," or "export the research." Handles web and authorized local sources with verbatim excerpts, direct citations, quote ledgers, branching loops, synthesis, maps, and a clean stop menu.
+description: Load When you want a stateful research chain with traceable evidence. Use for requests like "research this topic," "go deeper," "trace this quote," "analyze these contracts, specifications, or drawings," "map this GitHub repo," or "export the research." Handles web and authorized local sources with verbatim excerpts, direct citations, quote ledgers, branching loops, synthesis, maps, and a clean stop menu.
 version: 1.1.1
 license: Apache-2.0
 dependencies: []
